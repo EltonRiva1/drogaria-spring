@@ -7,7 +7,7 @@ Um sistema de gestão de drogaria desenvolvido com Spring Boot e tecnologias mod
 ## 🚀 Tecnologias Utilizadas
 
 - **Java 17**
-- **Spring Boot 3.4.2** (Spring MVC, Spring Data JPA, Spring Security)
+- **Spring Boot 3.4.2** (Spring MVC e Spring Data JPA)
 - **Hibernate**
 - **MySQL**
 - **Maven**
