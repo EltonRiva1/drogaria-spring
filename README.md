@@ -2,7 +2,7 @@
 
 ![Badge](https://img.shields.io/badge/Status-%20Concluído-green) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4.2-brightgreen)
 
-Um sistema de gestão de drogaria desenvolvido com Spring Boot e tecnologias modernas para facilitar o gerenciamento de produtos e vendas.
+Um sistema de gestão de drogaria desenvolvido com Spring Boot e tecnologias modernas para facilitar o gerenciamento de produtos.
 
 ## 🚀 Tecnologias Utilizadas
 
