@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+  db:
+    image: mysql:8.0.29
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: drogaria-spring
+    ports:
+      - 3306:3306
+    networks:
+      - drogaria-spring-network
+networks:
+  drogaria-spring-network:
+    driver: bridge
